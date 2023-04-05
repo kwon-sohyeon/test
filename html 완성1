@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="./css/style.css">
+
+  
+
+    </head>
+    <body>
+        <div id="wrapper">
+            <section id="left-box" class="section-box" style=>
+                <article class="left-contents" style="background-color:">
+                    <image id="logo" src="./img/likelion.png" alt="logo">
+
+                </article>
+                
+                <article class="left-contents" style="background-color: ">
+                    <h1 class="content-header italic">LIKE LION</h1>
+              
+                    <P class="content-color">
+                        우리는 '성장 의지를 가진 사람들을 돕기 위해' 존재합니다. 그리고
+                        이들을 돕기 위한 가장 근본적이고 효과적인 방법은 교육이라고 생각합니다.
+                        <br/><br/>
+                        지금 바로 지원하세요!
+                    </P>
+               
+                    </article>
+                <article class="left-contents AAA" style="background-color: ">
+                    <div class="img-box">
+                       <p class="italic container">Plan <br>& <br>Desing</p>
+                    </div>
+
+                    <div class="img-box">
+                       <p class="italic container">Frontend </p> 
+                        
+                    </div>
+
+                    <div class="img-box">
+                        <p class="italic container">Backend</p>
+                        
+                    </div>
+                </article>
+            
+            </section>
+            <section id="right-box" class="section-box" style="background-color:black ;">
+                <form action="" method="">
+                    <h1 class="login-color italic">LOGIN</h1>
+                    <input id="edit_id" class ="input-bar" placeholder="id"> </input><br/>
+                    <input id="edit_pw" class="pw-bar" placeholder="pw">  </input><br/>
+                    <button class="button-color"><p class="login-content">로그인 후 지원하기</p></button>
+                </form> 
+                    
+
+            
+            </section>
+        </div>
+    
+     
+    </body>
+</html>
